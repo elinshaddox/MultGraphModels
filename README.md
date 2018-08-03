@@ -2,8 +2,7 @@
 # Author: Elin Shaddox
 # Contact: elin@rice.edu
 #
-# The provided Matlab files for Bayesian inference of multiple graphical models are 
-# associated with the following publication:
+# The provided Matlab files for Bayesian inference of multiple graphical models are  associated with the following publication:
 #
 # Shaddox, E., Stingo, F., Peterson, C.B., Jacobson, S., Cruickshank-Quinn, C., Kechris, K., # Bowler, R. and Vannucci, M. (2016). A Bayesian Approach for Learning Gene Networks 
 # Underlying Disease Severity in COPD. Statistics in Biosciences, accepted.
@@ -20,12 +19,11 @@
 #
 # Please cite all publications if you use this code. Thanks!
 #
-# OVERVIEW OF FILES ————————————————————————————————————————————
+# OVERVIEW OF FILES 
 #
 # Example_multiple_graphs_SSVS.m
 # ——————————————————————————————————
-# Basic example of running the MCMC sampler and generating results summaries on a simple 
-# setting with 3 groups with identical dependence structure
+# Basic example of running the MCMC sampler and generating results summaries on a simple setting with 3 groups with identical dependence structure
 #
 # MCMC_multiple_graphs_SSVS_final.m
 # ——————————————————————————————————
